@@ -26,7 +26,9 @@ a:hover {
     z-index: 100000;
     background: #ffffff url("img/pageload-spinner.gif") no-repeat center center;
 }
-
+.col-sm-4,  li , a{
+    padding-top: 10px;
+}
 .bloc {
     width: 100%;
     clear: both;
