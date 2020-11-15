@@ -20,9 +20,6 @@ a:hover {
 .text--padding{
     padding: 20px;
 }
-.fa{
-    padding: 15px;
-}
 
 #page-loading-blocs-notifaction {
     position: fixed;
