@@ -20,6 +20,9 @@ a:hover {
 .text--padding{
     padding: 20px;
 }
+.icon-md{
+    padding: 15px;
+}
 
 #page-loading-blocs-notifaction {
     position: fixed;
